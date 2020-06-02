@@ -9,7 +9,7 @@ $ktp = $data3[0];
 $kk = $data3[1];
 //$data4 = array('KTP' => $ktp, 'NO_KK' => $kk);
 //print(json_encode(array('src'=>'Hasil', 'result'=>$data4)));
-echo ".::[ Generator NIK & KK ]::.\n\n<br><br>";
+echo ".::[ Generator NIK & KK ]::.\n\n";
 echo "No. KTP : ".$ktp."\n";
 echo "No. KK : ".$kk."\n";
 ?>
