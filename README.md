@@ -9,4 +9,4 @@
 * cd generator-kk
 
 # Run
-<b>php Generator.php</b>
+<b>php generator.php</b>
