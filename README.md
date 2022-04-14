@@ -1,12 +1,12 @@
-# generator-kk
+# Generator KK
 
-Generator KK & NIK
+<b>Install in termux</b>
 
-Install With Termux
+* pkg update && upgrade -y
+* pkg install git -y
+* pkg install php -y
+* git clone https://github.com/V1O7ET/generator-kk
+* cd generator-kk
 
-Pkg update && upgrade -y
-Pkg install git -y
-Pkg install php -y
-git clone https://github.com/V1O7ET/generator-kk/
-cd generator-kk
-php Generator.php
+# Run
+<b>php Generator.php</b>
